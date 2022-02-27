@@ -1,0 +1,83 @@
+﻿body {
+    background-image: url(../src/beijing1.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+
+.MENU {
+    width: 90%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+ul {
+    list-style: none;
+    display: inline-block;
+    width: 90%;
+}
+
+    ul li a {
+        font-size: 16px;
+        color: #05568b;
+        font-weight: bold;
+        float: left;
+        display: inline;
+        background-color: aquamarine;
+        background-size: 100%;
+        text-align: center;
+        width: 20%;
+        height: 50px;
+        line-height: 50px;
+    }
+
+a:hover {
+    color: yellow;
+}
+
+a:active {
+    color: red;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+
+.rc {
+    text-align: center;
+    margin: 0 auto;
+   
+}
+
+.jd111 {
+  
+    margin-bottom: 100px;
+    font-size: 25px;
+}
+
+.jd111 a {
+        text-decoration: none;
+    }
+
+        .jd111 a:hover {
+            border-bottom: 15px solid aqua;
+            visibility: visible;
+            color: red;
+        }
+
+.jdd {
+    text-align: center;
+    margin: 0 auto;
+}
+
+.wz {
+    border-bottom: 2px solid aqua;
+}

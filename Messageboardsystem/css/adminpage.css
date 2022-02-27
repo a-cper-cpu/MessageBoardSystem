@@ -1,0 +1,55 @@
+﻿body {
+    background-image: url(../src/hbj.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+
+.MENU {
+    width: 90%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+ul {
+    list-style: none;
+    display: inline-block;
+    width: 90%;
+}
+
+    ul li a {
+        font-size: 16px;
+        color: #05568b;
+        font-weight: bold;
+        float: left;
+        display: inline;
+        background-color: aquamarine;
+        background-size: 100%;
+        text-align: center;
+        width: 20%;
+        height: 50px;
+        line-height: 50px;
+    }
+
+a:hover {
+    color: yellow;
+}
+
+a:active {
+    color: red;
+}
+
+a {
+    text-decoration: none;
+}
+
+.form form {
+    text-align: center;
+    margin: 0 auto;
+}
